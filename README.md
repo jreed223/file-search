@@ -27,5 +27,5 @@ python fileSearch.py
 
 OR
 
-*Download the file fileSearch.exe in the dist sub folder
-*Run the exectuable file
+* Download the file fileSearch.exe in the dist sub folder
+* Run the exectuable file
