@@ -15,7 +15,6 @@ The program recursively searches through your file tree while checking each file
 ### Installing
 
 * Download the project folder
-* Any modifications needed to be made to files/folders
 
 ### Executing program
 
